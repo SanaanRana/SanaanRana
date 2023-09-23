@@ -1,0 +1,1 @@
+Hello my name is Sanaan Rana, I am taking CIS 106 because I recognize the increasing reliance to technology in todays world.  I believe that understanding the fundamentals of CIS will enable me to adapt to the fast-paced changes in the digital world,  And with this course I hope to get a basic grasp of a programming language to further pursue my career as a software developer.  
